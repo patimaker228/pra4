@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Каменева\Practice4\Practice4\obj\Debug\Practice4.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Каменева\Practice4\Practice4\obj\Debug\Practice4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Каменева\Practice4\Practice4\bin\Debug\Practice4.exe.config
+C:\Users\user\Desktop\Каменева\Practice4\Practice4\bin\Debug\Practice4.exe
+C:\Users\user\Desktop\Каменева\Practice4\Practice4\bin\Debug\Practice4.pdb
+C:\Users\user\Desktop\Каменева\Practice4\Practice4\obj\Debug\Practice4.exe
+C:\Users\user\Desktop\Каменева\Practice4\Practice4\obj\Debug\Practice4.pdb
